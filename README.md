@@ -18,3 +18,10 @@ It is an early TEST Version!
 
 
 https://wwa.lanzous.com/iVL9Wm17ugb
+
+
+## J3ssy 0.2
+
+This a new release with amfi
+
+https://wwa.lanzous.com/iPccfm4u0vc
